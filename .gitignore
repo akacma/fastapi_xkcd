@@ -3,3 +3,8 @@ __pycache__/
 .vscode/
 envvar/
 tests/__pycache__/
+
+# ignore files in images folder
+images/*
+# but keep the folder
+!images/.gitkeep
