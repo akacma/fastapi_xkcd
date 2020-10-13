@@ -1,6 +1,7 @@
 from fastapi.testclient import TestClient
-from .. import config, main
-from ..main import app, get_comic_data_by_id
+import config
+import main
+from main import app, get_comic_data_by_id
 from pathlib import Path
 
 

@@ -8,3 +8,7 @@ tests/__pycache__/
 images/*
 # but keep the folder
 !images/.gitkeep
+# ignore files in test_images folder
+test_images/*
+# but keep the folder
+!test_images/.gitkeep
