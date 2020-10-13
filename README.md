@@ -1,5 +1,6 @@
-# fastapi_comics  
-An application built with FastAPI using XKCD API  
+# Comics API
+
+An application built with FastAPI which returns data about comics made available by XKCD API  
 
 ## Features  
 
