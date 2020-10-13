@@ -14,7 +14,7 @@ An application built with FastAPI which returns data about comics made available
 
 ## Installation  
 
-To install type:  
+Copy the repository and to install the necessary modules type:  
 
     pip install -r requirements.txt  
 
