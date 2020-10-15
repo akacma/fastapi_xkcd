@@ -32,7 +32,7 @@ To start server type:
 
 To test type:  
 
-    python -m pytest  
+    python -m testpy  
         
 ## Issues  
 
